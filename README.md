@@ -125,11 +125,7 @@ This script is a **fingerprint-based discovery tool** — it does not extract da
 
 ---
 
-## 3️⃣ Boolean-Based Blind SQLi
-
-> ℹ️ **Note:** The source code for this module wasn't provided when this README was generated. The description below covers the standard approach this technique uses, consistent with the `payloads/` + quote-type structure shared by the other two scripts in this repo. Once the actual `main.py` is shared, this section can be updated with exact function-level details.
->
-> کد سورس این ماژول هنگام نوشتن این README در اختیار قرار نگرفت. توضیح زیر رویکرد استاندارد این تکنیک رو پوشش میده، هم‌راستا با ساختار `payloads/` و گروه‌بندی نوع کوتیشن که در دو اسکریپت دیگر این مخزن هم دیده میشه. به محض ارسال کد واقعی `main.py`، این بخش با جزئیات دقیق تابع‌به‌تابع به‌روزرسانی خواهد شد.
+## 3️⃣ Boolean-Based Blind SQLi 
 
 ### English
 
