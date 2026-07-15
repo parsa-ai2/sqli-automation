@@ -1,0 +1,11 @@
+single_quote:' order by 1#
+single_quote:' order by 2#
+single_quote:' order by 100000#
+
+double_quote:" order by 1#
+double_quote:" order by 2#
+double_quote:" order by 100000#
+
+no_quote: order by 1#
+no_quote: order by 2#
+no_quote: order by 100000#

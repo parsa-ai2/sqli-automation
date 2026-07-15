@@ -1,0 +1,16 @@
+
+
+single_quote:' AND 1=1 #
+single_quote:' AND 1=2 #
+
+
+
+double_quote:" AND 1=1 #
+double_quote:" AND 1=2 #
+
+no_quote: AND 1=1 #
+no_quote: AND 1=2 #
+
+
+
+
